@@ -1,5 +1,5 @@
 
-#Voter Classification Model using Twitter Data
+#LOGISTIC REGRESSION MODEL USING TWITTER DATA
 
 This repository contains code for a predictive model that classifies voters based on their Twitter behaviors and interactions. The model is built using Python and various libraries such as TextBlob, pandas, numpy, matplotlib, wordcloud, and plotly.
 
