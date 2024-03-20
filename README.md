@@ -3,7 +3,7 @@
 
 This repository contains code for a predictive model that classifies voters based on their Twitter behaviors and interactions. The model is built using Python and various libraries such as TextBlob, pandas, numpy, matplotlib, wordcloud, and plotly.
 
-#Dataset
+#Dataset.
 The dataset used in this project includes Twitter data related to two political figures: Donald Trump and Joe Biden. The data is stored in separate CSV files (Trumpall2.csv and Bidenall2.csv).
 
 #Data Preprocessing
